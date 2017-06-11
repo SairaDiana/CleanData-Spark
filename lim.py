@@ -1,3 +1,5 @@
+#Saira Diana Carranza Rodríguez
+#Becario Big-Data en BEEVA
 import pandas as pd
 import numpy as np
 import csv
